@@ -9,6 +9,11 @@
       "src": "ohl2.png",
       "sizes": "192x192",
       "type": "image/png"
+    },
+    {
+      "src": "ohl2.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
