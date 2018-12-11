@@ -3,5 +3,12 @@
   "short_name": "OHL2",
   "lang": "de-CH",
   "start_url": "/ohl2.html",
-  "display": "fullscreen"
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "ohl2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
